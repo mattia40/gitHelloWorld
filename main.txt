@@ -1,2 +1,8 @@
-Hello world
-return 1
+int main()
+{
+
+	printf("Hello world!\r\n");
+
+	return 1;
+
+}
